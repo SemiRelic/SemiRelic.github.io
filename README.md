@@ -1,4 +1,4 @@
-![Estienne du Toit](https://github.com/SemiRelic/SemiRelic.github.io/blob/master/Estienne-photo.JPG)
+![Estienne du Toit](https://github.com/SemiRelic/SemiRelic.github.io/Estienne-photo.JPG)
 
 # Skills
 
