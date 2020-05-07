@@ -1,3 +1,5 @@
+![Estienne du Toit](https://github.com/SemiRelic/SemiRelic.github.io/blob/master/Estienne-photo.JPG)
+
 # Skills
 
 1. Programming
@@ -24,5 +26,5 @@
 
 # Previous Work Experience
 
-## June 2019 - July 2019
+### June 2019 - July 2019
 - Freelance Web Design and Development
