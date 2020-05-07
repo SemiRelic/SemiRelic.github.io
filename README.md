@@ -1,8 +1,4 @@
-title: Estienne du Toit
-description: This is the profile of Estienne du Toit
-
 # Estienne du Toit
-
 
 ## Welcome to GitHub Pages
 
