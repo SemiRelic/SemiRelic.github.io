@@ -1,1 +1,8 @@
-# Estienne du Toit
+# Skills
+
+- Programming
+  - Java
+  - C++
+  - HTML
+  - 
+- Active Listening
